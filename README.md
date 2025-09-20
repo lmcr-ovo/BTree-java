@@ -18,8 +18,6 @@ Java 实现的简单 **B 树**（B-Tree），支持泛型与插入操作，节�
 
 ## 文件结构
 
-
-refer/
 ├── MyBTree.java    # B 树实现
 ├── MyNode.java     # B 树节点类（需提供）
 ```
@@ -28,12 +26,12 @@ refer/
 
 1. 编译
 ```bash
-javac refer/*.java
+javac /*.java
 ```
 
 2. 运行
 ```bash
-java refer.MyBTree
+java MyBTree
 ```
 
 ## 运行示例
