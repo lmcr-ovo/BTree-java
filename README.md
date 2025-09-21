@@ -1,6 +1,3 @@
-
-
-```markdown
 # MyBTree
 
 Java 实现的简单 **B 树**（B-Tree），支持泛型与插入操作，节点满时会进行分裂以保持平衡。
@@ -20,7 +17,7 @@ Java 实现的简单 **B 树**（B-Tree），支持泛型与插入操作，节�
 
 ├── MyBTree.java    # B 树实现
 ├── MyNode.java     # B 树节点类（需提供）
-```
+
 
 ## 使用方法
 
